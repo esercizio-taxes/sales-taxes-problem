@@ -1,0 +1,15 @@
+{
+  "name": "esercizio",
+  "version": "1.0.0",
+  "description": "Sales taxes problem",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test-all"
+  },
+  "author": "Cristian Roselli",
+  "license": "ISC",
+  "devDependencies": {}
+}
